@@ -1,0 +1,26 @@
+img {
+    text-align: center;
+    border-radius: 50px;
+}
+body{
+    text-align: center;
+    background-color: aliceblue;
+    font-family: Open-sans, Comic-sans, Arial, 'Times New Roman', Times, serif
+}
+h1{
+    color:aqua
+}
+ul {
+    text-align: center;
+    list-style: none;
+}
+body ol {
+    text-align: center;
+    list-style: upper-roman;
+    list-style-position: inside;
+    
+}
+a {
+    text-decoration: none;
+    color: black
+}
